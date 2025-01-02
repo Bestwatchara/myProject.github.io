@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # My Project and Certificate
 <center>Hello world!</center>
 
