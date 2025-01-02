@@ -9,3 +9,6 @@
 [My_Project](myProject.md) :point_left:
 &nbsp;
 [My_Certificate](myCertificate.md) :point_left:
+:point_left:
+
+:point_left:
