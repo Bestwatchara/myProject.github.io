@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Watcharakorn Rassameedit]
-description: [ชื่อเล่นชื่อเบสท์ ชอบสุนัขพันธุ์คอร์กี้ครับ]
+description: [นายวัชรากร รัศมีดิษฐ์      ชื่อเล่นชื่อเบสท์ ชอบสุนัขพันธุ์คอร์กี้ครับ]
