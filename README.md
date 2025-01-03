@@ -1,7 +1,4 @@
-<link rel="stylesheet" href="style.css">
-
-<h1> My Project and Certificate </h1>
-<center>Hello world!</center>
+<h1 style="text=align: center;"> My Project and Certificate </h1>
 
 <center><img src="./img/S__8888374.jpg" width="110" height="140"></center>
 
