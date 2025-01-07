@@ -1,4 +1,4 @@
-'''python
+'''js
 from BJ import Blackjack
 from BJ2 import Blackjack2
 
