@@ -1,6 +1,6 @@
 # Python
 ### ตัวอย่าง code login และ signin :
-<details>
+<summary>
 ```python
     def login():
     while True:
@@ -51,4 +51,4 @@
             print('Successful account creation.')
             login()
 ```
-</details>
+</summary>
