@@ -53,7 +53,7 @@
             print('Successful account creation.')
             login()
 ```
-<center><img src="../img/menu.png" width="200" height="250"></center>
+<center><img src="../img/menu.png"></center>
 </details>
 
 ### ตัวอย่าง code เกมบาคาร่า :
@@ -101,7 +101,7 @@ def bcbanker () :
     else :
         return sumscore
 ```
-<center><img src="../img/bc.png" width="200" height="450"></center>
+<center><img src="../img/bc.png"></center>
 </details>
 
 ### ตัวอย่าง code เกมแบล็คแจ็ค :
@@ -150,7 +150,7 @@ def Blackjack2() :
             print("PROGRAM SCORE :",sumscore)
             return sumscore
 ```
-<center><img src="../img/bj.png" width="200" height="250"></center>
+<center><img src="../img/bj.png"></center>
 </details>
 
 ### ตัวอย่าง code เกมเสือกับมังกร :
@@ -225,7 +225,7 @@ def TigerDragon(money,) :
                 print("-",bet)
             return money
 ```
-<center><img src="../img/bj.png" width="200" height="550"></center>
+<center><img src="../img/bj.png"></center>
 </details>
 
 
