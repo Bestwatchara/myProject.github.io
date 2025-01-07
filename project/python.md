@@ -1,1 +1,1 @@
-<code> print("hi") </code>
+'' print("hi") ''
