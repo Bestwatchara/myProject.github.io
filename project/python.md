@@ -5,3 +5,7 @@ here is my code:
     checkcard(card);
     if score1 >= 10 :;
         score1 = 10;
+
+'''php
+$age = 5;
+'''
