@@ -54,7 +54,7 @@
             login()
 ```
 <center><img src="../img/menu.png"></center>
-</details>
+<!-- </details> -->
 
 ### ตัวอย่าง code เกมบาคาร่า 
 <details>
