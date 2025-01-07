@@ -2,6 +2,7 @@
 ### ตัวอย่าง code login และ signin :
 <details>
     <summary>รายละเอียดเพิ่มเติม</summary>
+    
     ```python
         def login():
         while True:
@@ -54,12 +55,3 @@
     ```
 </details>
 
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
