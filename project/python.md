@@ -1,4 +1,5 @@
-<code> from BJ import Blackjack
+'''python
+from BJ import Blackjack
 from BJ2 import Blackjack2
 
 def BJPlayer(money) : 
@@ -43,8 +44,4 @@ def BJPlayer(money) :
         print ("*** TIE ****")
         money = money + (bet)
     return money
-
-
-
-    
- </code>
+'''
