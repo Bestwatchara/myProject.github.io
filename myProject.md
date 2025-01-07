@@ -1,6 +1,6 @@
 # Project
 - ## First year
-  <br>[1. Fundamental Programming Concepts](./project/python.md)
+  <br>[1. Fundamental Programming Concepts](/project/python.md)
   <br>[2. Statistical Programmin](./project/stat.md)
 - ## Second year
   <br>[1. Software Construction](./project/java.md)
