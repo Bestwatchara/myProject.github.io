@@ -1,7 +1,5 @@
 # Python
 ### ตัวอย่าง code login และ signin 
-<details>
-<!--     <summary>รายละเอียดเพิ่มเติม</summary> -->
     
 ```python
     def login():
@@ -54,11 +52,8 @@
             login()
 ```
 <center><img src="../img/menu.png"></center>
-<!-- </details> -->
 
 ### ตัวอย่าง code เกมบาคาร่า 
-<details>
-    <summary>รายละเอียดเพิ่มเติม</summary>
     
 ```python
 def bcbanker () :
@@ -102,11 +97,8 @@ def bcbanker () :
         return sumscore
 ```
 <center><img src="../img/bc.png"></center>
-</details>
 
 ### ตัวอย่าง code เกมแบล็คแจ็ค 
-<details>
-    <summary>รายละเอียดเพิ่มเติม</summary>
     
 ```python
 
@@ -151,11 +143,8 @@ def Blackjack2() :
             return sumscore
 ```
 <center><img src="../img/bj.png"></center>
-</details>
 
 ### ตัวอย่าง code เกมเสือกับมังกร 
-<details>
-    <summary>รายละเอียดเพิ่มเติม</summary>
     
 ```python
 
@@ -226,7 +215,3 @@ def TigerDragon(money,) :
             return money
 ```
 <center><img src="../img/bj.png"></center>
-</details>
-
-
-
