@@ -1,5 +1,5 @@
 # Python
-### ตัวอย่าง code login และ signin :
+### ตัวอย่าง code login และ signin 
 <details>
     <summary>รายละเอียดเพิ่มเติม</summary>
     
@@ -56,7 +56,7 @@
 <center><img src="../img/menu.png"></center>
 </details>
 
-### ตัวอย่าง code เกมบาคาร่า :
+### ตัวอย่าง code เกมบาคาร่า 
 <details>
     <summary>รายละเอียดเพิ่มเติม</summary>
     
@@ -104,7 +104,7 @@ def bcbanker () :
 <center><img src="../img/bc.png"></center>
 </details>
 
-### ตัวอย่าง code เกมแบล็คแจ็ค :
+### ตัวอย่าง code เกมแบล็คแจ็ค 
 <details>
     <summary>รายละเอียดเพิ่มเติม</summary>
     
@@ -153,7 +153,7 @@ def Blackjack2() :
 <center><img src="../img/bj.png"></center>
 </details>
 
-### ตัวอย่าง code เกมเสือกับมังกร :
+### ตัวอย่าง code เกมเสือกับมังกร 
 <details>
     <summary>รายละเอียดเพิ่มเติม</summary>
     
