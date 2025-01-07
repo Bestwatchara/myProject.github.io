@@ -6,3 +6,30 @@
 
 ### ตัวอย่าง code ภาษา R
 
+```R
+    # all data collect from Google form 103 response
+dataform <- read.csv("dataform.csv")
+dataform
+
+data_read <- dataform$read
+data_read
+
+length_read = length(data_read)
+mean_read = mean(data_read)
+sd_read = sd(data_read)
+median_read = median(data_read)
+sderr_read = sd_read/length_read
+var_read = var(data_read)
+range_read = max(data_read)-min(data_read)
+
+
+sprintf("Amount of read data is %d",length_read)
+sprintf("Mean of reaed data is %f",mean_read)
+sprintf("Standard diviaion of read data is %.4f",sd_read)
+sprintf("Median of read data is %.4f",median_read)
+sprintf("Standard Error of read data is %f",sderr_read)
+sprintf("Variance of read data is %f",var_read)
+sprintf("Range of read data is %f",range_read)
+
+#-------------------------------------------#
+```
