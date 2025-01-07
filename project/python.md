@@ -1,4 +1,5 @@
 '''
+
 def Blackjack() :
     sumscore = 0
     
