@@ -53,7 +53,7 @@
             print('Successful account creation.')
             login()
 ```
-<center><img src="./img/menu.png" width="200" height="250"></center>
+<center><img src="../img/menu.png" width="200" height="250"></center>
 </details>
 
 
