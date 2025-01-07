@@ -153,7 +153,7 @@ def Blackjack2() :
 <center><img src="../img/bj.png" width="200" height="250"></center>
 </details>
 
-### ตัวอย่าง code เกมแบล็คแจ็ค :
+### ตัวอย่าง code เกมเสือกับมังกร :
 <details>
     <summary>รายละเอียดเพิ่มเติม</summary>
     
