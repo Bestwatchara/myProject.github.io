@@ -3,3 +3,5 @@
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 # title: [Watcharakorn Rassameedit]
 # description: [ชื่อเล่นชื่อเบสท์ ชอบสุนัขพันธุ์คอร์กี้ครับ]
+
+theme : minima
