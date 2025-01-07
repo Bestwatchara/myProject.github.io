@@ -1,7 +1,7 @@
 # Project
 - ## First year
   <br>[1. Fundamental Programming Concepts](python.md)
-  <br[>2. Statistical Programmin](stat.md)
+  <br>[2. Statistical Programmin](stat.md)
 - ## Second year
   <br>[1. Software Construction](java.md)
   <br>[2. Programming Internet of Things](iot.md)
