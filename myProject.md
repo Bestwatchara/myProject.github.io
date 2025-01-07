@@ -1,5 +1,3 @@
 # Project
 - First year
-- sdfsdf
-- sdfdsf
-- 
+fsdfdsfsdf
