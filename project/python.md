@@ -1,47 +1,27 @@
-'''js
-from BJ import Blackjack
-from BJ2 import Blackjack2
-
-def BJPlayer(money) : 
-    print("-"*30)
+'''
+def Blackjack() :
+    sumscore = 0
     
-    while True :
-        try :
-            bet = int(input("Enter your bet : "))
-            break
-        except :
-            print ("Please enter amount")
+    score1 = random.randint(1,13)
+    card = score1
+    checkcard(card)
+    if score1 >= 10 :
+        score1 = 10
 
-    if bet > money :
-        bet = money
-    money = money - bet
-
-    print("***PROGRAM CARD***")
-    programscore = Blackjack2()
-    if programscore == 21 :
-        print ("*** BLACK JACK!!! ***")
-
-    print("***YOUR CARD***")
-    scoreplayer = Blackjack()
-    if scoreplayer == 21 :
-        print ("*** BLACK JACK!!! ***")
-    print("-"*30)
-
-    if programscore > 21 :
-        programscore = 0
-    if scoreplayer > 21 :
-        scoreplayer = 0
+    score2 = random.randint(1,13)
+    card = score2
+    checkcard(card)
+    if score2 >= 10 :
+        score2 = 10
     
+    sumscore = score1 + score2
+    
+    if score1 == 1 and score2 == 10 :
+        sumscore = 21
+    elif score2 == 1 and score1 == 10 :
+        sumscore = 21
 
-    if programscore > scoreplayer :
-        print ("*** YOU LOSE ***")
-        print (f"- {bet}")
-    elif programscore < scoreplayer :
-        print ("*** YOU WIN ****")
-        print (f"+ {bet}")
-        money = money + (bet*2)
-    elif programscore == scoreplayer :
-        print ("*** TIE ****")
-        money = money + (bet)
-    return money
+    if sumscore == 21 :
+        print("YOUR SCORE :",sumscore)
+        return sumscore
 '''
