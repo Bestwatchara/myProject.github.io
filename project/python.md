@@ -2,7 +2,6 @@
 ### ตัวอย่าง code login และ signin 
 <details>
     <summary>รายละเอียดเพิ่มเติม</summary>
-    
 ```python
     def login():
     while True:
