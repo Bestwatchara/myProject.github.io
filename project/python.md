@@ -1,6 +1,5 @@
 # Python
 ### ตัวอย่าง code login และ signin :
-<details>
     
     ```python
         def login():
@@ -52,6 +51,5 @@
                 print('Successful account creation.')
                 login()
     ```
-</details>
 
 
