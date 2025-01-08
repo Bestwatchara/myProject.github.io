@@ -16,7 +16,6 @@
   <img src="https://github.com/user-attachments/assets/52991e31-1d9d-4fb0-9682-98bcf253f5e4" alt="image" />
 </p>
 
-
 ### ตัวอย่าง code หน้าเมนู
     
 ```cpp
@@ -48,8 +47,9 @@
             return 0;
         }
 ```
-![image](https://github.com/user-attachments/assets/9ccd92ff-d630-4967-8efc-ca5206ee1cb8)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ccd92ff-d630-4967-8efc-ca5206ee1cb8" alt="image" />
+</p>
 
 ### ตัวอย่าง code เช็คแพ็คเกจ
     
@@ -61,8 +61,9 @@ void showPackage() {
         cout << "#Other package# 200 baht\n-Carousel and giant house\n\n#All you can play package# 400 baht\n-You can play anything you want in Khmerdogpark\n" << endl;
     }
 ```
-![image](https://github.com/user-attachments/assets/56bc107c-a8f0-438c-abda-99e8afe392df)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56bc107c-a8f0-438c-abda-99e8afe392df" alt="image" />
+</p>
 
 ### ตัวอย่าง code เช็คส่วนสูงตัวเองว่าสามารถเข้าเล่นเครื่องเล่นไหนได้บ้าง
     
@@ -86,8 +87,9 @@ public:
     }
 };
 ```
-![image](https://github.com/user-attachments/assets/8af5e8af-92dd-4330-b355-89d24190d8c7)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8af5e8af-92dd-4330-b355-89d24190d8c7" alt="image" />
+</p>
 
 ### ตัวอย่าง code เช็คราคา
     
@@ -125,6 +127,8 @@ public:
             price += totalPackage;  // รวมราคา
             cout << "Total Price: " << price << " baht" << endl;  // แสดงราคา
 ```
-![image](https://github.com/user-attachments/assets/981c2248-2e76-4df5-9b2a-b0b3e57a537a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/981c2248-2e76-4df5-9b2a-b0b3e57a537a" alt="image" />
+</p>
 
 
