@@ -3,6 +3,15 @@
 ### ตัวอย่าง Test scenario และ Code ของการ Test ภาษา Java ด้วย JUnit
 
 ### ตัวอย่าง Test scenario และ Code ของการ Test API ด้วย PostMan
+<pre><code class="json">
+    {
+        "name": "John Doe",
+        "age": 30,
+        "city": "New York"
+    }
+    </code></pre>
+<center><img src="../img/menu.png"></center>
+
 ![image](https://github.com/user-attachments/assets/1e94a1db-7ad4-48a6-971e-61548ff6650f)
 
 ### ตัวอย่าง Test scenario และ Code ของการ Test Performance ของ Website ด้วย JMeter
