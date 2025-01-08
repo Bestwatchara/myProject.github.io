@@ -5,7 +5,7 @@
   <br>[3. Computer Programming](./project/cpp.html)
 - ## Second year
   <br>[1. Programming Internet of Things](./project/iot.html)
-  <br>[2. Fundamentals of Artificial Intelligence](./project/ai.md)
+  <br>[2. Fundamentals of Artificial Intelligence](./project/ai.html)
 - ## Third year
   <br>[1. Software Testing and Verification](./project/softtest.md)
   <br>[2. System Analysis and Design](./project/sa.md)
