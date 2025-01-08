@@ -15,6 +15,7 @@
             justify-content: center;
             align-items: center;
             text-align: center;
+            position: relative; /* For positioning the back button */
         }
         header {
             background-color: #333;
@@ -36,6 +37,29 @@
             height: 100%; /* Make the iframe fill the container */
             border: none;
         }
+        .description {
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        /* Back button styles */
+        .back-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            padding: 10px 20px;
+            background-color: #333;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .back-btn:hover {
+            background-color: #555;
+        }
     </style>
 </head>
 <body>
@@ -52,6 +76,9 @@
         <p>ในโปรเจคนี้ผมได้สร้างเครื่องปัดน้ำฝนโดยใช้อุปกรณ์ IoT เช่น esp8226 หลอดไฟ switch โดยเขียนในโปรแกรม Arduino IDE ซึ่งเขียนเป็นภาษา C</p>
     </div>
 </section>
+
+<!-- Back button to go to the previous page -->
+<button class="back-btn" onclick="window.location.href='https://bestwatchara.github.io/myProject.github.io/myProject'">Back</button>
 
 </body>
 </html>
