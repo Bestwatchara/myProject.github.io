@@ -29,7 +29,7 @@
 
   
 ### Link Certified Network Cabling for Engineering
-![image](https://github.com/user-attachments/assets/205010d0-ccb0-49cb-9eb5-45b1e293ce04)
+![image](https://github.com/user-attachments/assets/d1c86028-1395-49db-86eb-d09a32dd678f)
 <details>
  <summary>รายละเอียดเพิ่มเติม</summary>
   การอบรมครั้งนี้ทำให้ผมเรียนรู้การต่อหัวสาย LAN ทั้งตัวผู้และตัวเมีย
