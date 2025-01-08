@@ -1,37 +1,38 @@
-<pre><code class="cpp">
+<h2>C++ Code Highlight Example with Prism.js:</h2>
+    <pre><code class="language-cpp">
         int main() {
-    Customer player;
-    int i = 0;
-    int price = 0; // เก็บราคาสุดท้าย
-    int groupCount = 0; // เก็บจำนวนคนในกลุ่ม
+            Customer player;
+            int i = 0;
+            int price = 0; // เก็บราคาสุดท้าย
+            int groupCount = 0; // เก็บจำนวนคนในกลุ่ม
 
-    cout << "How many people in your group: ";
-    cin >> groupCount;
+            cout << "How many people in your group: ";
+            cin >> groupCount;
 
-    while (true) {
-        player.showMenu();  // แสดงเมนู
-        i = player.chooseMenu();  // รับคำสั่งจากผู้ใช้
+            while (true) {
+                player.showMenu();  // แสดงเมนู
+                i = player.chooseMenu();  // รับคำสั่งจากผู้ใช้
 
-        if (i == 1) {
-            player.showPackage();  // แสดงรายละเอียดแพ็คเกจ
-        }
-        else if (i == 2) {
-            player.getHigh();  // รับค่าความสูง
-            player.checkRule();  // ตรวจสอบกฎตามความสูง
-        }
-        else if (i == 3) {
-            int totalPackage = player.setPackage(groupCount);  // เพิ่มราคาของกลุ่ม
-            price += totalPackage;  // รวมราคา
-            cout << "Total Price: " << price << " baht" << endl;  // แสดงราคา
-        }
-        else if (i == 4) {
-            cout << "Total Price: " << price << " baht" << endl;  // แสดงราคาเมื่อเลือกจ่าย
-        }
-        else if (i == 0) {
-            break;  // ออกจากโปรแกรม
-        }
-    }
+                if (i == 1) {
+                    player.showPackage();  // แสดงรายละเอียดแพ็คเกจ
+                }
+                else if (i == 2) {
+                    player.getHigh();  // รับค่าความสูง
+                    player.checkRule();  // ตรวจสอบกฎตามความสูง
+                }
+                else if (i == 3) {
+                    int totalPackage = player.setPackage(groupCount);  // เพิ่มราคาของกลุ่ม
+                    price += totalPackage;  // รวมราคา
+                    cout << "Total Price: " << price << " baht" << endl;  // แสดงราคา
+                }
+                else if (i == 4) {
+                    cout << "Total Price: " << price << " baht" << endl;  // แสดงราคาเมื่อเลือกจ่าย
+                }
+                else if (i == 0) {
+                    break;  // ออกจากโปรแกรม
+                }
+            }
 
-    return 0;
-}
-        </code></pre>
+            return 0;
+        }
+    </code></pre>
