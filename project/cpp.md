@@ -12,7 +12,9 @@
             cout << "How many people in your group: ";
             cin >> groupCount;
 ```
-![image](https://github.com/user-attachments/assets/52991e31-1d9d-4fb0-9682-98bcf253f5e4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52991e31-1d9d-4fb0-9682-98bcf253f5e4" alt="image" />
+</p>
 
 
 ### ตัวอย่าง code หน้าเมนู
