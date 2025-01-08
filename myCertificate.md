@@ -1,5 +1,7 @@
 # Certificate
 
+<center>
+ 
 ### Smart Chatbot with Google sheet “การสร้างสมาร์ทแชทบอทผ่าน Google Sheet”
 ![image](https://github.com/user-attachments/assets/34184dbe-f2aa-4742-a020-d302ecf0580d)
 <details>
@@ -34,3 +36,6 @@
  <summary>รายละเอียดเพิ่มเติม</summary>
   การอบรมครั้งนี้ทำให้ผมเรียนรู้การต่อหัวสาย LAN ทั้งตัวผู้และตัวเมีย
 </details>
+
+</center>
+ 
