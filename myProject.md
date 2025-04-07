@@ -10,4 +10,4 @@
   <br>[1. Software Testing and Verification](./project/softtest.html)
   <br>[2. System Analysis and Design](./fileproject/sa/SA_พันธมิตรแห่งเงา.pdf)
   <br>[3. Introduction to Machine Learning](./project/ml.md)
-  <br>[4. Natural Language Processing](./fileproject/NLP_Project/api.py)
+  <br>[4. Natural Language Processing](https://colab.research.google.com/drive/1pNSntkp8jymXtTzFeUkek8rOSjC5yAIp?usp=sharing)
